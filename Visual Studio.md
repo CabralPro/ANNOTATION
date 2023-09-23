@@ -16,6 +16,10 @@
 		
 		SHIFT + ALT + ç 
 
+- COLOCAR TEXTO EM MAIUSCULO E MINUSCULO
+
+		CTRL + U
+
 # Utilitarios
 
 - Breakpoint condicional 
